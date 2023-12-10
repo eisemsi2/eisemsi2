@@ -21,6 +21,7 @@ Here are some ideas to get you started:
     <ul>
       <li> <a href="https://github.com/eisemsi2/spoj-select-solutions"> <b>spoj-select-solutions</b> </a> </li> 
       <li> <a href="https://github.com/eisemsi2/Advent-of-Code-2023" > <b> Advent of Code 2023 </b></a></li>
+      <li> <a href="https://codeforces.com/profile/prajjwalk21"> <b>Codeforces</b> </a>c</li>
     </ul>
   <li> Being a Mathematics major I have a good understanding of some Machine Learning algorithms and Time Sereis Analysis. Some of the work in these domain are : </li>
     <ul>
