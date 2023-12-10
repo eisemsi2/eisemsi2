@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <ul>
-  <li> I'm currently a $3^{rd}$ year Mathematics and Scientific Computing undergraduate student at Indian Institute of Technology, Kanpur </li>
+  <li> I'm currently a $3^{rd}$ year Mathematics and Scientific Computing undergraduate student at Indian Institute of Technology, Kanpur. </li>
   <li> I'm currently constantly trying to solve competetive programing problems to improve my problem solving skills. I have put some of my attempts towards solving standard problems in : </li>
     <ul>
       <li> <a href="https://github.com/eisemsi2/spoj-select-solutions"> <b>spoj-select-solutions</b> </a> </li> 
@@ -25,6 +25,10 @@ Here are some ideas to get you started:
   <li> Being a Mathematics major I have a good understanding of some Machine Learning algorithms and Time Sereis Analysis. Some of the work in these domain are : </li>
     <ul>
       <li> <a href="https://github.com/eisemsi2/Temperature-Change-Pridicting-using-ARIMA"> <b> Pridicting Temperatuer Change using ARIMA </b> </a> </li>
+    </ul>
+  <li> Some of the key projects I've made for some software devolopment experience :</li>
+    <ul>
+      <li> <a href = "https://github.com/eisemsi2/Vending-Machine" > <b> Vending Machine</b> </a> </li>
     </ul>
 </ul>
 
