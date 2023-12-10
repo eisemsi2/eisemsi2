@@ -30,6 +30,6 @@ Here are some ideas to get you started:
     <ul>
       <li> <a href = "https://github.com/eisemsi2/Vending-Machine" > <b> Vending Machine</b> </a> </li>
     </ul>
-  <li> I'm eager to hear about any developments I can make in any of my projects to improve them and increase my understanding towards these domains. Please contact me at <a href="mailto:prajjwalk255@gmail.com"> <b> mail </b> </a> for some valuable discussion.</li>
+  <li> I'm eager to hear about any developments I can make in any of my projects to improve them and increase my understanding towards these domains. Please contact me at <a href="mailto:prajjwalk255@gmail.com"> <b> mail</b> </a> for some valuable discussion.</li>
 </ul>
 
